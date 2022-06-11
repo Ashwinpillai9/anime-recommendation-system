@@ -1,4 +1,4 @@
-# anime-recommendation-system
+# anime-recommendation-system [Minor Project]
 Abstract
 During the last few decades, alongside the rapid globalization, the market for television media has expanded considerably. This is especially the case for anime, a style of Japanese film and television animation which is typically aimed at adults as well as children. With digitalization, anime is readily available for viewers worldwide; However, the manner in which anime movies and shows are recommended to the targeted audience remains lacklustre despite the constant efforts made towards its development. This project aims to aid this problem and improve the overall viewer experience; the system focuses on the recommendation algorithm to bring the viewer anime suggestions based on their previously watched anime. It additionally provides the user with similar anime suggestions based on their search.
 
